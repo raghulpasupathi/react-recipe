@@ -1,4 +1,4 @@
-#React Recipe Web App
+# React Recipe Web App
 
 Things that are used to create this app:
 
