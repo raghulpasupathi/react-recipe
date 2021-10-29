@@ -1,3 +1,15 @@
+#React Recipe Web App
+
+Things that are used to create this app:
+
+- Fetch data from an api with react
+- How useState and useEffect work
+- How to pass down data in react with props
+
+
+Credits: To get better understanding of the code follow [DevEd](https://www.youtube.com/watch?v=U9T6YkEDkMo)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
